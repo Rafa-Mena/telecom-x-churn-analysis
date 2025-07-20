@@ -39,3 +39,12 @@ Identificar patrones de comportamiento y factores clave que influyen en la pérd
 
 ## 📁 Estructura del Repositorio
 
+telecom-x-churn-analysis/
+│
+├── data/ # Datos descargados o generados
+├── notebooks/ # Jupyter Notebooks del análisis
+├── scripts/ # Scripts para ETL y funciones auxiliares
+├── reports/ # Informes y visualizaciones exportadas
+├── requirements.txt # Dependencias del proyecto
+├── .gitignore # Archivos que no se deben subir al repositorio
+└── README.md # Este archivo
